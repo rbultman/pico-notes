@@ -1,6 +1,8 @@
 # pico-notes
 Notes on setting up for programming the RPi Pico on Windows
 
+## Setting up a toolchain
+
 ### WSL Toolchain
 - To get the tools running on WSL follow this tutorial: https://github.com/arnegue/Development-for-Raspberry-Pi-Pico-using-WSL
 - To get VS Code working with Pico on WSL, follow these instructions: https://paulbupejr.com/raspberry-pi-pico-windows-development/
@@ -12,3 +14,6 @@ Building the examples listed here work:  https://datasheets.raspberrypi.com/pico
 ### Windows Toolchain
 - Follow the instructions from Chapter 9 of https://datasheets.raspberrypi.com/pico/getting-started-with-pico.pdf
 - When building, the speed is 1/10 to 1/1000 that of the WSL toolchain.
+
+## Other notes
+- The system clock defaults to 125 MHz.
