@@ -12,4 +12,3 @@ Building the examples listed here work:  https://datasheets.raspberrypi.com/pico
 ### Windows Toolchain
 - Follow the instructions from Chapter 9 of https://datasheets.raspberrypi.com/pico/getting-started-with-pico.pdf
 - When building, the speed is 1/10 to 1/1000 that of the WSL toolchain.
-![image](https://user-images.githubusercontent.com/499656/179980239-7c835fd6-fd1b-43fd-a93d-6c7ae1fdad0f.png)
